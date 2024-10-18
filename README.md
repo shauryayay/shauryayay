@@ -21,4 +21,4 @@ I'm always open to collaborating on **data-driven projects**, **open-source cont
 
 ## 📫 How to Reach Me
 - **Email**: shauryar1971@gmail.com
-- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/shaurya-rathore-8bb253250/)](#)
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/shaurya-rathore-8bb253250/)]
