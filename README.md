@@ -2,7 +2,7 @@
 
 Software Engineer with a focus on **backend systems**, **ML infrastructure**, and **developer platforms**.
 
-Recently wrapped up building automated database provisioning at **NVIDIA** — cutting setup time from days to minutes. I like designing systems where one API call replaces a manual process.
+Recently wrapped up building automated database provisioning at **NVIDIA**, cutting setup time from days to minutes. I like designing systems where one API call replaces a manual process.
 
 B.Tech CS (Data Science minor) from Amity University, 2026.
 
@@ -10,9 +10,9 @@ B.Tech CS (Data Science minor) from Amity University, 2026.
 
 ### What I build
 
-- **Backend APIs & platforms** — async job pipelines, GitOps automation, self-service infra
-- **ML serving infrastructure** — model containerization, inference endpoints, monitoring
-- **NLP & data science** — recommendation systems, text analysis, explainability
+- **Backend APIs & platforms**: async job pipelines, GitOps automation, self-service infra
+- **ML serving infrastructure**: model containerization, inference endpoints, monitoring
+- **NLP & data science**: recommendation systems, text analysis, explainability
 
 ---
 
@@ -22,7 +22,7 @@ B.Tech CS (Data Science minor) from Amity University, 2026.
 |---------|-------------|-------|
 | [**CloudPilot**](https://github.com/shauryayay/cloudpilot) | Self-service database provisioning API with GitOps audit trails | FastAPI, Celery, Redis, Docker |
 | [**Deployer**](https://github.com/shauryayay/deployer) | Upload an ML model, get a containerized inference endpoint | FastAPI, Docker SDK, Redis, Jinja2 |
-| [**Book NLP**](https://github.com/shauryayay/book-nlp) | Literary text analysis — NER, summarization, character network graphs | HuggingFace, spaCy, NetworkX, Streamlit |
+| [**Book NLP**](https://github.com/shauryayay/book-nlp) | Literary text analysis: NER, summarization, character network graphs | HuggingFace, spaCy, NetworkX, Streamlit |
 
 ---
 
